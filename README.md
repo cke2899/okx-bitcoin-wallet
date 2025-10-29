@@ -2,7 +2,9 @@
 
 Tired of missing out on Bitcoin's newest innovations? While others scramble to understand Ordinals and BRC-20 tokens, you're still stuck with wallets that only handle basic BTC transactions. OKX Wallet changes everything—offering a multicadena solution that lets you mint, trade, and manage Bitcoin's experimental token standards with zero hassle. Whether you're exploring NFT inscriptions or diving into BRC-20 trading, this wallet gives   you direct access to Bitcoin's evolving ecosystem without the technical headaches.
 
----  <img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/950385ca-a413-497c-9b6a-0fc36607acfa" />
+---  
+
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/950385ca-a413-497c-9b6a-0fc36607acfa" />
 
 
 So here's the thing about Bitcoin lately—it's gotten way more interesting than just "digital gold sitting in your wallet." Remember when Bitcoin was basically this one-trick pony that only did BTC transfers? Yeah, those days are gone.
